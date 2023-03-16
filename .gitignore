@@ -2,4 +2,6 @@
 ../
 .idea/
 .git/
-.DS_Store/
+
+# system ignore
+.DS_Store
